@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "window",
+        "_init",
+        "_draw",
+        "_update",
+        "cls",
+        "notify",
+        "create_gui"
+    ]
+}
